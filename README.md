@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tammy</h1>
+<h1 align="center">Hi 👋, I'm Tammy S.</h1>
 <h3 align="center">A Computer Science student and an aspiring SWE/Product Manager</h3>
 
 - 🌱 I’m currently working on **Google IT Support Certificate**
