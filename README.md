@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at (+ How to reach me) [https://www.linkedin.com/in/tammy-suj/](https://www.linkedin.com/in/tammy-suj/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JXqPRSUHBDDcAU_JIh5u8QKbDtPPEU1f/view?usp=sharing](https://drive.google.com/file/d/1JXqPRSUHBDDcAU_JIh5u8QKbDtPPEU1f/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JXqPRSUHBDDcAU_JIh5u8QKbDtPPEU1f/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a trilingual (Thai, Chinese, and English)**
 
