@@ -1,6 +1,20 @@
-👋 Hi, This is Tammy Sujaritchai @TamSuj
-👀 I love reading sci-fi and I really like Warcross by Marie Lu! I love boba!
+<h1 align="center">Hi 👋, I'm Tammy</h1>
+<h3 align="center">A Computer Science student and an aspiring SWE/Product Manager</h3>
 
-📫 I can be reached at https://www.linkedin.com/in/tammy-suj/
+- 🌱 I’m currently working on **Google IT Support Certificate**
 
-[![MasterHead](https://images.unsplash.com/photo-1511142878591-5040f0bdaadd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)](https://github.com/TamSuj)
+- 🤝 My hackathon project [Kare - Solution for Elderly](https://devpost.com/software/kare-solutions-for-elderly?ref_content=my-projects-tab&ref_feature=my_projects#)
+
+- 👨‍💻 All of my projects are available at (+ How to reach me) [https://www.linkedin.com/in/tammy-suj/](https://www.linkedin.com/in/tammy-suj/)
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JXqPRSUHBDDcAU_JIh5u8QKbDtPPEU1f/view?usp=sharing](https://drive.google.com/file/d/1JXqPRSUHBDDcAU_JIh5u8QKbDtPPEU1f/view?usp=sharing)
+
+- ⚡ Fun fact **I'm a trilingual (Thai, Chinese, and English)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tammy-suj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tammy-suj/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
