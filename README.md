@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tammy Sujaritchai</h1>
 <h3 align="center">A computer science student and an aspiring SWE/product manager</h3>
 
-- 🔭 I’m currently working on [Python Package](https://github.com/ishaanjdev/semper-recode/tree/main#installation)
+- 🔭 I’m currently working on [Python Package]()
 
 - 💡 All of my projects are available at [https://www.linkedin.com/in/tammy-suj/](https://www.linkedin.com/in/tammy-suj/) and [personal website](https://tamsuj.github.io/my-website/)
 
