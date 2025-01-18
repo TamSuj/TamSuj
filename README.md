@@ -7,7 +7,7 @@
 
 - 💬 I have experience in **Programming, cloud computing, IT management, product management, and research**
 
-- 📫 How to reach me **tammygayvalin@gmail.com**
+- 📫 You can reach me at **[gtsujaritchai@g.ucla.edu](mailto:gtsujaritchai@g.ucla.edu)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qq66iXZyQQObvABdqkgyZEGyxwOJcCiB/view](https://drive.google.com/file/d/1qq66iXZyQQObvABdqkgyZEGyxwOJcCiB/view)
 
