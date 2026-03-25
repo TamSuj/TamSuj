@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Python Package]()
 
-- 💡 All of my projects are available at [https://www.linkedin.com/in/tammy-suj/](https://www.linkedin.com/in/tammy-suj/) and [personal website](https://tamsuj.github.io/my-website/)
+- 💡 All of my projects are available at [https://www.linkedin.com/in/tammy-suj/](https://www.linkedin.com/in/tammy-suj/) and [personal website](https://tammysujaritchai.vercel.app/)
 
 - 💬 I have experience in **Programming, cloud computing, IT management, product management, and research**
 
